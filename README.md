@@ -17,9 +17,9 @@
 
 [<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />][GIT]
 
-
 [<img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" style="padding-right:10px;" />][JAVA]
 
+[<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />][PYTHON]
 
 <br />
 <br />
@@ -40,6 +40,7 @@
 [CSS]:https://developer.mozilla.org/en-US/docs/Web/CSS
 [VSCODE]:https://code.visualstudio.com/
 [JAVA]:https://docs.oracle.com/en/java/
+[PYTHON]:python.org
 [GIT]:https://git-scm.com/
 [instagram]: https://instagram.com/astatepach
 [linkedin]: https://linkedin.com/in/BigMiami
