@@ -10,12 +10,21 @@
 
 ### Languages and Tools:
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][VSCODE]
-<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" /><img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
+
+[<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />][HTML]
+
+[<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />][CSS]
+
+[<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />][GIT]
+
+
+[<img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" style="padding-right:10px;" />][JAVA]
 
 
 <br />
 <br />
+
+
 
 ---
 
@@ -28,7 +37,11 @@
 
 </details>
 
+[HTML]:https://developer.mozilla.org/en-US/docs/Glossary/HTML5
+[CSS]:https://developer.mozilla.org/en-US/docs/Web/CSS
 [VSCODE]:https://code.visualstudio.com/
+[JAVA]:https://docs.oracle.com/en/java/
+[GIT]:https://git-scm.com/
 [instagram]: https://instagram.com/astatepach
 [linkedin]: https://linkedin.com/in/BigMiami
 
