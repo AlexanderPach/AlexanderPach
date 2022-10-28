@@ -3,7 +3,7 @@
 
 ## I'm Student, Junior Developer, and Active Learner
 
-- 🌱 I’m currently learning advanced Java / Spring
+- 🌱 I’m currently learning C++ / Python / Computational Neuroscience Modulation
 - 🥅 2022 Goals: Get a work/school schedule balance.
 - 👯 I’m looking to collaborate with other content creators
 
