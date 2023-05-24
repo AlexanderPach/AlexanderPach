@@ -4,8 +4,8 @@
 ## I'm Student, Junior Developer, and Active Learner
 
 - 🌱 I’m currently learning C++ / Python / Computational Neuroscience Modulation
-- 🥅 2022 Goals: Get a work/school schedule balance.
-- 👯 I’m looking to collaborate with other content creators
+- 🥅 2023 Goals: Secure a good place
+- 👯 I’m looking to collaborate with other coders
 
 
 ### Languages and Tools:
