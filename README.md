@@ -3,8 +3,8 @@
 
 ## I'm Student, Junior Developer, and Active Learner
 
-- 🌱 I’m currently learning Distributed Systems
-- 🥅 2023 Goals: Secure a good place
+- 🌱 I’m currently learning Typescript
+- 🥅 2024 Goals: Raise?
 - 👯 I’m looking to collaborate with other coders
 
 
