@@ -19,7 +19,7 @@ I’m looking to collaborate with other coders
 
 [<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />][PYTHON]
 
-[<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/cplusplus/cplusplus-original.svg" style="padding-right:10px;" />][PYTHON]
+[<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/cplusplus/cplusplus-original.svg" style="padding-right:10px;" />][C++]
 <br />
 <br />
 
@@ -40,6 +40,7 @@ I’m looking to collaborate with other coders
 [VSCODE]:https://code.visualstudio.com/
 [JAVA]:https://docs.oracle.com/en/java/
 [PYTHON]:python.org
+[C++]:https://cppreference.com/
 [GIT]:https://git-scm.com/
 [instagram]: https://instagram.com/astatepach
 [linkedin]: https://linkedin.com/in/BigMiami
