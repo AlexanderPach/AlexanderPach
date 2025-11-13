@@ -3,9 +3,7 @@
 
 ## I'm a Software Enginer @ MSFT
 
-- 🌱 I’m currently learning Typescript
-- 🥅 2024 Goals: Raise?
-- 👯 I’m looking to collaborate with other coders
+I’m looking to collaborate with other coders
 
 
 ### Languages and Tools:
