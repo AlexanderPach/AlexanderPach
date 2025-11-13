@@ -1,7 +1,7 @@
 # Hello I'm Alex/Alexander
 
 
-## I'm Student, Junior Developer, and Active Learner
+## I'm a Software Enginer @ MSFT
 
 - 🌱 I’m currently learning Typescript
 - 🥅 2024 Goals: Raise?
